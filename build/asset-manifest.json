@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Gitkaaro/ReactRepository.git/static/css/main.cf016399.css",
+    "main.js": "/git@github.com:Gitkaaro/ReactRepository.git/static/js/main.da20d47d.js",
+    "static/media/marathon.jpg": "/git@github.com:Gitkaaro/ReactRepository.git/static/media/marathon.ebee5abac38564f9b08d.jpg",
+    "static/media/stories2.jpg": "/git@github.com:Gitkaaro/ReactRepository.git/static/media/stories2.9bbd15a26f7c0ba1b6b4.jpg",
+    "static/media/partner.jpg": "/git@github.com:Gitkaaro/ReactRepository.git/static/media/partner.8220b7bf4dc97d70a662.jpg",
+    "static/media/logo.png": "/git@github.com:Gitkaaro/ReactRepository.git/static/media/logo.40c055c5547db6951892.png",
+    "static/media/marathon2.jpg": "/git@github.com:Gitkaaro/ReactRepository.git/static/media/marathon2.9eb323b4c3137e4e26b6.jpg",
+    "static/media/sci.jpg": "/git@github.com:Gitkaaro/ReactRepository.git/static/media/sci.ede4a22cbd4ccf936ba6.jpg",
+    "index.html": "/git@github.com:Gitkaaro/ReactRepository.git/index.html",
+    "main.cf016399.css.map": "/git@github.com:Gitkaaro/ReactRepository.git/static/css/main.cf016399.css.map",
+    "main.da20d47d.js.map": "/git@github.com:Gitkaaro/ReactRepository.git/static/js/main.da20d47d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf016399.css",
+    "static/js/main.da20d47d.js"
+  ]
+}
